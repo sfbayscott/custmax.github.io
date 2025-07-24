@@ -1,2 +1,2 @@
-# custmax.github.io
-custmax
+# CustMax
+Ai website builder & digital marketing
